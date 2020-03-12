@@ -1,1 +1,1 @@
-# Coloque aqui somente arquivos de programas de computados (.SQL)
+# Coloque aqui somente arquivos de programas de computador (.SQL)
